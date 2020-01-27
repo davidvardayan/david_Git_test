@@ -8,6 +8,7 @@ public class Main {
 	// write your code here
         Random random = new Random();
          int result = random.nextInt(23);
+        System.out.println();
 
     }
 }
