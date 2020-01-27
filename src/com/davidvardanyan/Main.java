@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         Random random = new Random();
-        random.nextInt(23);
+         int result = random.nextInt(23);
 
     }
 }
